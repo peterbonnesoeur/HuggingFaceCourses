@@ -11,4 +11,4 @@ Installation:
 pip3 install -r requirements.txt
 ```
 
-P.S: the usage of a virtualenv is highly recommended as the modesl used by Hugging Face are fairly bit (~GB).
+P.S: the usage of a virtualenv is highly recommended as the modesl used by Hugging Face are fairly bit (~Gb).
